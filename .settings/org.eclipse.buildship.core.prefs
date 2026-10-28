@@ -1,0 +1,13 @@
+arguments=--init-script /home/overlord/.cache/nvim/jdtls/config_1fe0597686cd1bd6a12bdfcc90d15ff6bde809579c603900c928c335aaeecfb9/org.eclipse.osgi/58/0/.cp/gradle/init/init.gradle
+auto.sync=false
+build.scans.enabled=false
+connection.gradle.distribution=GRADLE_DISTRIBUTION(WRAPPER)
+connection.project.dir=
+eclipse.preferences.version=1
+gradle.user.home=
+java.home=/home/overlord/.local/share/nvim/nvim-java/packages/openjdk/25/jdk-25.0.5.0.3
+jvm.arguments=
+offline.mode=false
+override.workspace.settings=true
+show.console.view=true
+show.executions.view=true
